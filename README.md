@@ -1,7 +1,6 @@
 # facebook
-# My Orders
 
-Flutter project using BLoC state management to order food online
+Facebook Ui responsive and adaptive Flutter project using BLoC state management
 
 ## Used Packages:
 
