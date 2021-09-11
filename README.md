@@ -1,16 +1,15 @@
 # facebook
+# My Orders
 
-A new Flutter project.
+Flutter project using BLoC state management to order food online
 
-## Getting Started
+## Used Packages:
 
-This project is a starting point for a Flutter application.
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+- [flutter_app_name](https://pub.dev/packages/flutter_app_name)
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+- [cached_network_image](https://pub.dev/packages/cached_network_image)
+- [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter)
+- [carousel_slider](https://pub.dev/packages/carousel_slider)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
